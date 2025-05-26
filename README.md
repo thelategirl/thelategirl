@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🗝️ Developping a video game called "Blue Beard"<br>🃏 Contributing to the "L'After du Bocal 2.0" booster pack<br><br>🗝️ Développe un jeu vidéo nommmé "Barbe Bleue"<br>🃏 Contribue au booster "L'After du Bocal 2.0"</p>
+<p align="left">🗝️ Developping a video game called "Blue Beard"<br>🃏 Contributing to the "L'After du Bocal 2.0" booster pack<br><br>🗝️ Développe un jeu vidéo nommé "Barbe Bleue"<br>🃏 Contribue au booster "L'After du Bocal 2.0"</p>
 
 ###
 
