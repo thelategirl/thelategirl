@@ -1,4 +1,4 @@
-<p align="center">Bachelor's degree in Computer Science. Apprentice in Embedded Electronic Systems Engineering.<br>Specialization in embedded software.<br>Diplômée de licence informatique. Apprentie en Systèmes Electronique embarqués. <br>Spécialisation en logiciel embarqués.</p>
+<p align="center">Bachelor's degree in Computer Science. Apprentice in Embedded Electronic Systems Engineering.<br>Specialization in firmware engineering.<br>Diplômée de licence informatique. Apprentie en Systèmes Electronique embarqués. <br>Spécialisation en logiciel embarqués.</p>
 
 ###
 
